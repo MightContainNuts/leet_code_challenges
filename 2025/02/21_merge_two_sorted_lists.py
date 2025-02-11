@@ -10,8 +10,7 @@ from typing import Optional
 
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        return_node = ListNode()
-        stack = return_node
+        stack = ListNode()
 
         while list1 or list2:
             if list1.val > list2.val:
@@ -24,7 +23,7 @@ class Solution:
 
         stack.next = list1 if list1 else list2
 
-        return return_node.next
+        return stack.next
 
 
     @staticmethod
