@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f53dd03-a6f1-46cc-8266-4e98ee4ea50f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2025/02/add_two_nums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f53dd03-a6f1-46cc-8266-4e98ee4ea50f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +36,9 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2sh6jsDlGciEOLzCstO4kqGpXaZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,8 +46,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01_3160.executor": "Run",
+    "Python.13_Roman_to_integer.executor": "Run",
+    "Python.20_valid_parenthesis.executor": "Run",
     "Python.2sum.executor": "Run",
     "Python.add_two_nums.executor": "Run",
+    "Python.clear_digits.executor": "Run",
+    "Python.longest_common_prefix.executor": "Run",
+    "Python.palindrome_number.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -55,11 +60,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
     "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2025/02" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734587839225</updated>
       <workItem from="1734587850538" duration="56000" />
-      <workItem from="1738895598868" duration="34618000" />
+      <workItem from="1738895598868" duration="57365000" />
     </task>
     <servers />
   </component>
@@ -89,15 +99,20 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/2025/02/add_two_nums.py</url>
-          <line>45</line>
+          <line>49</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$longest_common_prefix.coverage" NAME="longest_common_prefix Coverage Results" MODIFIED="1739107294267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$2sum.coverage" NAME="2sum Coverage Results" MODIFIED="1738940023857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$add_two_nums.coverage" NAME="add_two_nums Coverage Results" MODIFIED="1739016246134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
+    <SUITE FILE_PATH="coverage/LeetCode$clear_digits.coverage" NAME="clear_digits Coverage Results" MODIFIED="1739207094943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$01_3160.coverage" NAME="01_3160 Coverage Results" MODIFIED="1738907720488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
+    <SUITE FILE_PATH="coverage/LeetCode$palindrome_number.coverage" NAME="palindrome_number Coverage Results" MODIFIED="1739098873977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
+    <SUITE FILE_PATH="coverage/LeetCode$13_Roman_to_integer.coverage" NAME="13_Roman_to_integer Coverage Results" MODIFIED="1739102319635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
+    <SUITE FILE_PATH="coverage/LeetCode$20_valid_parenthesis.coverage" NAME="20_valid_parenthesis Coverage Results" MODIFIED="1739205581035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
   </component>
 </project>
