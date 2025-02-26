@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f53dd03-a6f1-46cc-8266-4e98ee4ea50f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2025/02/1524_number_sub_arrays_with_odd_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025/02/1749_max_abs_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,43 +46,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_3160.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_find_punishment_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13_Roman_to_integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1524_number_sub_arrays_with_odd_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1718_largest_valid_sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1910_remove_all_occurences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1980_unique_binary_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20_valid_parenthesis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_merge_two_sorted_lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2342_max_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.28_Index_first_occurence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3066_Minimum_ops_to_exceed_threshold.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add_two_nums.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clear_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.longest_common_prefix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.product_of_last_k_numbewrs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recursion_experiment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.remove_duplicates_from_sorted_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zig_zag_conversion.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_3160.executor": "Run",
+    "Python.08_find_punishment_number.executor": "Run",
+    "Python.13_Roman_to_integer.executor": "Run",
+    "Python.1524_number_sub_arrays_with_odd_sum.executor": "Run",
+    "Python.1718_largest_valid_sequence.executor": "Run",
+    "Python.1749_max_abs_sum.executor": "Run",
+    "Python.17_02.executor": "Run",
+    "Python.1910_remove_all_occurences.executor": "Run",
+    "Python.1980_unique_binary_string.executor": "Run",
+    "Python.20_valid_parenthesis.executor": "Run",
+    "Python.21_merge_two_sorted_lists.executor": "Run",
+    "Python.2342_max_sum.executor": "Run",
+    "Python.28_Index_first_occurence.executor": "Run",
+    "Python.2sum.executor": "Run",
+    "Python.3066_Minimum_ops_to_exceed_threshold.executor": "Run",
+    "Python.add_two_nums.executor": "Run",
+    "Python.clear_digits.executor": "Run",
+    "Python.longest_common_prefix.executor": "Run",
+    "Python.palindrome_number.executor": "Run",
+    "Python.product_of_last_k_numbewrs.executor": "Run",
+    "Python.recursion_experiment.executor": "Run",
+    "Python.remove_duplicates_from_sorted_array.executor": "Run",
+    "Python.zig_zag_conversion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2025/02" />
@@ -123,7 +124,8 @@
       <workItem from="1740371662314" duration="1942000" />
       <workItem from="1740419362497" duration="4816000" />
       <workItem from="1740495986434" duration="2222000" />
-      <workItem from="1740545055097" duration="5287000" />
+      <workItem from="1740545055097" duration="6761000" />
+      <workItem from="1740571795883" duration="2835000" />
     </task>
     <servers />
   </component>
@@ -146,6 +148,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$recursion_experiment.coverage" NAME="recursion_experiment Coverage Results" MODIFIED="1740130177143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$2sum.coverage" NAME="2sum Coverage Results" MODIFIED="1738940023857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$1718_largest_valid_sequence.coverage" NAME="1718_largest_valid_sequence Coverage Results" MODIFIED="1739698424372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
+    <SUITE FILE_PATH="coverage/LeetCode$1749_max_abs_sum.coverage" NAME="1749_max_abs_sum Coverage Results" MODIFIED="1740574894806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$13_Roman_to_integer.coverage" NAME="13_Roman_to_integer Coverage Results" MODIFIED="1739102319635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$20_valid_parenthesis.coverage" NAME="20_valid_parenthesis Coverage Results" MODIFIED="1739205581035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
     <SUITE FILE_PATH="coverage/LeetCode$08_find_punishment_number.coverage" NAME="08_find_punishment_number Coverage Results" MODIFIED="1739688437192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025/02" />
