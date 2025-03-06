@@ -43,47 +43,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_3160.executor": "Run",
-    "Python.08_find_punishment_number.executor": "Run",
-    "Python.1334_ranking_order.executor": "Run",
-    "Python.13_Roman_to_integer.executor": "Run",
-    "Python.1524_number_sub_arrays_with_odd_sum.executor": "Run",
-    "Python.1718_largest_valid_sequence.executor": "Run",
-    "Python.1749_max_abs_sum.executor": "Run",
-    "Python.17_02.executor": "Run",
-    "Python.1910_remove_all_occurences.executor": "Run",
-    "Python.1980_unique_binary_string.executor": "Run",
-    "Python.20_valid_parenthesis.executor": "Run",
-    "Python.2161_partition.executor": "Run",
-    "Python.21_merge_two_sorted_lists.executor": "Run",
-    "Python.2342_max_sum.executor": "Run",
-    "Python.28_Index_first_occurence.executor": "Run",
-    "Python.2sum.executor": "Run",
-    "Python.3066_Minimum_ops_to_exceed_threshold.executor": "Run",
-    "Python.add_two_nums.executor": "Run",
-    "Python.clear_digits.executor": "Run",
-    "Python.longest_common_prefix.executor": "Run",
-    "Python.palindrome_number.executor": "Run",
-    "Python.power_of_three.executor": "Run",
-    "Python.product_of_last_k_numbewrs.executor": "Run",
-    "Python.recursion_experiment.executor": "Run",
-    "Python.remove_duplicates_from_sorted_array.executor": "Run",
-    "Python.zig_zag_conversion.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
-    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_3160.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_find_punishment_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1334_ranking_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_Roman_to_integer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1524_number_sub_arrays_with_odd_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1718_largest_valid_sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1749_max_abs_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1910_remove_all_occurences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1980_unique_binary_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20_valid_parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2161_partition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21_merge_two_sorted_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2342_max_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28_Index_first_occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3066_Minimum_ops_to_exceed_threshold.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_two_nums.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clear_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longest_common_prefix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.power_of_three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_of_last_k_numbewrs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion_experiment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicates_from_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zig_zag_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2025/02" />
@@ -129,6 +129,7 @@
       <workItem from="1740737785552" duration="3732000" />
       <workItem from="1741007406735" duration="2779000" />
       <workItem from="1741082158003" duration="3775000" />
+      <workItem from="1741151475452" duration="49000" />
     </task>
     <servers />
   </component>
